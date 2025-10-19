@@ -70,5 +70,5 @@ All external links (like GitHub) are safe and open in a new tab.
 ✨ Author
 
 Nwabunwanne Joshua
-Frontend Track – HNG Internship 2025
+Frontend Track – HNG 13 Internship 2025
 GitHub Profile
